@@ -12,7 +12,7 @@ ad_group = Default psiTurk Stroop Example
 psiturk_keywords = stroop
 organization_name = New Great University
 browser_exclude_rule = MSIE, mobile, tablet
-allow_repeats = false
+allow_repeats = true
 
 [Database Parameters]
 database_url = postgres://wfusxxgmnsxdfa:926bd28b756b4816ed3e9e29d7af165f1dd8873118d5afa08c2bde615f2130e0@ec2-54-196-33-23.compute-1.amazonaws.com:5432/d74rkms69sbhu7
